@@ -1,0 +1,136 @@
+COMPONENTS CODE
+
+CODE COMPONENT
+C :CAPACITOR
+D IODE
+F :FUSE
+L :INDUCTOR
+PC :POWER CAPACITOR
+PD :POWER DIODES/DIODE
+PL :POWER INDUCTOR
+PQ :POWER TRANSISTOR
+PR :POWER RESISTOR
+PU :POWER INTEGRATED CIRCUIT
+Q :TRANSISTOR
+R :RESISTOR
+T : Transformers
+U :INTEGRATED CIRCUIT/BGA CHIP/EMBEDDED CONTROLER/BIOS IC,ETC
+X : Terminal strips, terminations, joins .oscilator
+Y : Crystal
+
+ABBREVIATION ON LAPTOP MOTHERBOARD FOR SCHEMATIC
+
+AC : Alternating current
+ACDRV : AC adapter to system-switch driver output
+ACEDET : Adaptor Current Detector
+ACGOOD : Valid adapter active-low detect logic open-drain output
+ACIN : Adaptor Current sensor Input
+ACN : Adapter current sense resistor
+ACOP : Input Over-Power Protection
+ACOV : Input Overvoltage Protection
+ACP : Adapter current sense resistor, positive input.
+ADP+ : Adapter Positif Suplay
+ADP_ID : Adapter Identity
+AGND :Analog Ground
+ALWP :ALWAYS ON POWER
+B+ : AC OR BAT POWER RAIL FOR POWER CIRCUIT
+BATT : Battery
+
+BAT+ :BAT POWER RAIL FOR POWER CIRCUIT
+BAT_DRV :Bat Fet Gate Driver
+BAT_V Battery Voltage
+BOM :BILL OF MATERIAL MANAGEMENT
+BT :BUTTON
+BT_EN :Bloototh Enable
+BUZER :Connected
+BYP :Baypass
+CHGEN : Charge enable active-low logic input
+CIN : Input Capacitor
+CLK_EN :CLKOCK ENABLE
+CN :CONECTOR
+CRT :Cathode ray tube
+CSIN :Current Sensor input Negatif
+CSIP :Current Sensor input Positif
+DC irect current
+DM IM/DIM SOCKET/SOKET MEMORY/SOKET DDR
+DOCK OCKING SOCKET
+EC :Embedded Controler
+EC_ON :Embeded Controler Enable
+EMI :Elektromagnetik Interference(GANGGUAN ELEKTROMAGNETIK)
+EN :ENABLE
+ENTRIP :Enable Terminal
+F :FUSE
+FSEL : Frequency Select Input.
+GATE : Trigger gate
+GND :Ground
+GP :GROUND PIN
+GPI :General Power Input
+GPIO :General Power Input Output
+HDMI :High-Definition Multimedia Interface
+ID :Continuous Drain Current
+IDM :Pulsed Drain Current
+IIN : Operating Supply Current
+IIN(SHDN): Shutdown Supply Current
+IIN(STBY): Standby Supply Current
+IS :Continuous Source Current (Diode Conduction)
+IVIN :Battery Supply Current at VIN pin
+JP :JUMPER POINT
+KBC :Keyboard Controler
+LCDV :LCD POWER
+LDO :Linear Driver Output
+LGATE : Lower-side MOSFET gate signal
+LPC :Low Pin Count
+LVDS :Low-voltage differential signaling(SYSTEM PENSIGNALAN)
+MBAT :MAIN BATTERY
+NB :North Bridge
+ODD :OUTPUT DISC DRIVE
+PCI :Peripheral Component Interconnect
+PGOOD : Power good open-drain output
+PIR :PRODUCT IMPROVED RECORD
+PSI# :Current indicator input
+PVCC : IC power positive supply
+RSMRST : Resume Reset
+RTC :REAL TIME CLOCK
+SB : South bridge
+SHDN :Shutdown
+SYS_SDN :System Shutdown
+SPI :Serial Peripheral Interface
+TD eath Time
+THRM :THERMAL SENSOR
+TMDS :Transition Minimized Differential Signaling(TRANSMISI DATA TEKNOLOGY)
+TP :TES POINT
+TPAD :THERMAL PAD
+UVLO : Input Undervoltage Lock Out
+V :RAIL(POWER)
+V+ :Positive Voltage
+VADJ : Output regulation voltage
+VALW :ALWAYS ON POWER
+VALWP :VALW PAD
+VBAT :BATTERY POWER
+VCCP :power chip(ich,graphic chips)
+VCORE :POWER PROCESOR
+VDD : Control power supply
+VDDR :POWER DDR (VDRAM/VRAM/VMEM)
+VDS :VOLTAGE DRAIN SOURCE
+VFB : feedback inputs Power
+VGS :VOLTAGE GATE SOURCES
+VIN : Input Voltage Range
+VIN :ADAPTER POWER SUPLAY(vol_in)
+VL :Power Lock
+VL :voltage across the load/Tegangan beban resistor
+VL :Voltage Linear
+VLDOIN :Power supply of the VTT and VTTREF output stage (to powerMOS).
+VOT :Volt_out
+VRAM :Power Memori
+VREF :POWER REFERENCES/SCHEMA REFERENCE/PERMINTAAN SKEMA
+VS :SUITCH POWER
+VS+ :SUPPORT VOLTAGE POSITIF
+VSB :POWER SWITCH BUTTON
+VSS : Signal ground.
+VSW :POWER SWICT
+VTT : Memory Termination Voltage
+VTERM :Memory Termination Voltage
+VUSB :POWER USB
+VGA :POWER VGA (VGPX/VGPU/VCVOD)
+VGFX :POWER GRAPHIC CHIP
+VREF :VOLTAGE REFERENCES
